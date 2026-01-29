@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 
 - [Security Policy](#security-policy)
 - [Security Scope](#security-scope)
@@ -54,7 +54,7 @@ The project is not a bug bounty program.
 
 ---
 
-## Supported Versions
+# Supported Versions
 
 Supported versions include:
 
@@ -70,7 +70,7 @@ are considered **unsupported**.
 
 ---
 
-## What Constitutes a Security Issue
+# What Constitutes a Security Issue
 
 Security vulnerabilities include:
 

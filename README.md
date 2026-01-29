@@ -285,7 +285,7 @@ Deployment details: [`docs/deployment.md`](docs/deployment.md)
 
 ---
 
-## Observability and Control
+# Observability and Control
 
 The system provides:  
 – inference metrics  
